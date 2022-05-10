@@ -1,0 +1,4 @@
+Id~FirstName~LastName~Designation~Salary~Ratings~DOB
+1~Akshay~Sood~SDE~100~~05-10-1993
+2~Some~One~HR~200~3.5~12-01-2005
+3~John~Doe~SDE~210~2~07-08-1996
